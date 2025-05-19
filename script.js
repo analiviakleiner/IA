@@ -12,4 +12,11 @@ const perguntas = [
         enunciado: "Pergunta 1",
         alternativas: ["Alternativa1","Alternativa2"]
     }
-]
+];
+
+let atual = 0;
+let perguntaAtual;
+
+function mostrarPergunta(){
+    
+}
