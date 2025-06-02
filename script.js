@@ -12,8 +12,8 @@ const perguntas = [
             afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "Ele foi simbolo de diversidade cultural e musical e foi importante para abrir espaços para trazer igualdade racial.",
+            afirmacao: "A preservação da cultura de resistência de um povo."
             },
         ]
     },
