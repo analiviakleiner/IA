@@ -1,9 +1,9 @@
 :root{
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-fundo: #ce4cd3;
+    --cor-principal: #883256 ;
+    --cor-secundaria: #3b0228;
+    --cor-destaque: #e91e9b;
+    --cor-texto: #f58ebe;
 }
 
 body{
@@ -29,13 +29,6 @@ h1{
 
 .caixa-perguntas{
     padding-bottom: 10px;
-}
-:root{
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
 }
 
 button{
